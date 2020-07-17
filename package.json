@@ -1,0 +1,14 @@
+{
+  "name": "react-native-screen",
+  "version": "1.0.0",
+  "description": "responsive react native pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dinçer Canpunar",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.60.0"
+  }
+}
