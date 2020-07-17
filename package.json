@@ -10,5 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.60.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dincercanpunar/react-native-screen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dincercanpunar/react-native-screen/issues"
+  },
+  "homepage": "https://github.com/dincercanpunar/react-native-screen#readme"
 }
